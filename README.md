@@ -37,6 +37,26 @@ https://interactive-algorithm-visualizer-eight.vercel.app/
   - 💼 LinkedIn
   - 🐙 GitHub
   - 🌐 Portfolio
+
+⚙️ How to Run
+# Clone the repository
+git clone https://github.com/Rakshita-04/Interactive-Algorithm-Visualizer.git
+# Open the project folder
+cd Interactive-Algorithm-Visualizer
+# Open index.html in your browser
+Navigate between Home, Sorting Visualizer, Searching Visualizer, and Contact page using the menu.
+
+💻 Tech Stack
+
+- HTML5 – Structure
+- CSS3 – Styling & Animations
+- JavaScript – Logic & Visualizations
+- Prism.js – Code Syntax Highlighting
+- Ionicons – Icons
+
+⭐ If you like this project, give it a star on GitHub to support the work!
+
+
 ## 📂 Project Structure
 <details>
 <summary>Click to expand 📁</summary>
@@ -78,20 +98,4 @@ Interactive-Algorithm-Visualizer
 
 </details>```
 
-⚙️ How to Run
-# Clone the repository
-git clone https://github.com/Rakshita-04/Interactive-Algorithm-Visualizer.git
-# Open the project folder
-cd Interactive-Algorithm-Visualizer
-# Open index.html in your browser
-Navigate between Home, Sorting Visualizer, Searching Visualizer, and Contact page using the menu.
 
-💻 Tech Stack
-
-- HTML5 – Structure
-- CSS3 – Styling & Animations
-- JavaScript – Logic & Visualizations
-- Prism.js – Code Syntax Highlighting
-- Ionicons – Icons
-
-⭐ If you like this project, give it a star on GitHub to support the work!
