@@ -40,6 +40,7 @@ https://interactive-algorithm-visualizer-eight.vercel.app/
 ## 📂 Project Structure
 <details>
 <summary>Click to expand 📁</summary>
+  
 ```plaintext
 Interactive-Algorithm-Visualizer
 │
@@ -74,7 +75,8 @@ Interactive-Algorithm-Visualizer
 ├── sv-removebg-preview.png
 ├── upper-gradient.svg
 └── video.mp4
-</details> ```
+
+</details>```
 
 ⚙️ How to Run
 # Clone the repository
