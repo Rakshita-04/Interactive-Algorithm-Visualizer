@@ -3,6 +3,9 @@
 > **Visualize & Learn Sorting & Searching Algorithms!**   
 An interactive web-based tool to **understand**, **experiment with**, and **compare** popular algorithms through step-by-step animations.
 
+# Demo Link
+https://interactive-algorithm-visualizer-eight.vercel.app/
+
 ## 🏆 Highlights
 [![GitHub stars](https://img.shields.io/github/stars/Rakshita-04/Interactive-Algorithm-Visualizer?style=flat&color=yellow)](https://github.com/Rakshita-04/Interactive-Algorithm-Visualizer/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Rakshita-04/Interactive-Algorithm-Visualizer?style=flat&color=orange)](https://github.com/Rakshita-04/Interactive-Algorithm-Visualizer/network)
@@ -37,6 +40,7 @@ An interactive web-based tool to **understand**, **experiment with**, and **comp
 ## 🗂 Project Structure
 <details>
 <summary>Click to expand 📂</summary>
+```plaintext
 Interactive-Algorithm-Visualizer
 │
 ├── Contact/
@@ -71,10 +75,10 @@ Interactive-Algorithm-Visualizer
 ├── upper-gradient.svg
 └── video.mp4
 
-</details>
+</details> ```
 
 
-### ⚙️ How to Run
+⚙️ How to Run
 # Clone the repository
 git clone https://github.com/Rakshita-04/Interactive-Algorithm-Visualizer.git
 # Open the project folder
