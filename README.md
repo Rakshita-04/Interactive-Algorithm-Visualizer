@@ -37,36 +37,36 @@ https://interactive-algorithm-visualizer-eight.vercel.app/
   - 💼 LinkedIn
   - 🐙 GitHub
   - 🌐 Portfolio
-## 🗂 Project Structure
+## 📂 Project Structure
 <details>
-<summary>Click to expand 📂</summary>
+<summary>Click to expand 📁</summary>
 ```plaintext
 Interactive-Algorithm-Visualizer
 │
 ├── Contact/
-│ ├── contact.html
-│ └── contact.css
+│   ├── contact.html
+│   └── contact.css
 │
 ├── Searching/
-│ ├── Binary.js
-│ ├── Linear.js
-│ ├── prism.js
-│ ├── prism.css
-│ ├── searching.css
-│ ├── searching.html
-│ └── searching.js
+│   ├── Binary.js
+│   ├── Linear.js
+│   ├── prism.js
+│   ├── prism.css
+│   ├── searching.css
+│   ├── searching.html
+│   └── searching.js
 │
 ├── Sorting/
-│ ├── bubble.js
-│ ├── insertion.js
-│ ├── selection.js
-│ ├── merge.js
-│ ├── quick.js
-│ ├── prism.css
-│ ├── prism.js
-│ ├── sorting.html
-│ ├── sorting.css
-│ └── sorting.js
+│   ├── bubble.js
+│   ├── insertion.js
+│   ├── selection.js
+│   ├── merge.js
+│   ├── quick.js
+│   ├── prism.css
+│   ├── prism.js
+│   ├── sorting.html
+│   ├── sorting.css
+│   └── sorting.js
 │
 ├── index.html
 ├── style.css
@@ -74,9 +74,7 @@ Interactive-Algorithm-Visualizer
 ├── sv-removebg-preview.png
 ├── upper-gradient.svg
 └── video.mp4
-
 </details> ```
-
 
 ⚙️ How to Run
 # Clone the repository
