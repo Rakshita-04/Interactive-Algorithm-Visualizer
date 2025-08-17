@@ -96,6 +96,4 @@ Interactive-Algorithm-Visualizer
 ├── upper-gradient.svg
 └── video.mp4
 
-</details>```
-
 
