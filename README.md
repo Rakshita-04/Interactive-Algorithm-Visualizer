@@ -1,6 +1,6 @@
 # 📊 Interactive Algorithm Visualizer
 
-> **Visualize & Learn Sorting & Searching Algorithms!**   
+**Visualize & Learn Sorting & Searching Algorithms!**   
 An interactive web-based tool to **understand**, **experiment with**, and **compare** popular algorithms through step-by-step animations.
 
 # Demo Link
